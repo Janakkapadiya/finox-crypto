@@ -1,4 +1,4 @@
 # Finoxcripto
 
-![Finoxcripto]a crypto market information 
+a crypto market information 
 
